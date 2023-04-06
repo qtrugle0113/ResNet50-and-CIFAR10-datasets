@@ -9,3 +9,5 @@
 <br />**- Use trained checkpoint parameters of 285 epochs(in this project we will train only 1 epoch)**<br />
 ## Train:
 <br />**- Use CIFAR-10 datasets provided by torchvision**<br />
+## Result:
+![resnet50_result](https://user-images.githubusercontent.com/86500497/230470949-c9d52df5-4a2e-4211-9994-8f2e66d10b4d.png)
